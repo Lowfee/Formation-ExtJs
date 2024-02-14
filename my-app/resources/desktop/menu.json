@@ -1,0 +1,8 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Home", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+    { "text": "Character", "iconCls": "x-fa fa-table", "xtype": "charactergrid","leaf": true },
+    { "text": "Tasks", "iconCls": "x-fa fa-table", "xtype": "taskview","leaf": true }
+  ]
+}
